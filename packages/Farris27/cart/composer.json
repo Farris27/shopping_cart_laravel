@@ -1,0 +1,19 @@
+{
+  "name": "farris27/cart",
+  "description": "Sample Laravel Package for shopping Cart",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Benjamin Farris",
+      "email": "benfarris40@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Farris27/Cart": "packages/Farris27/cart/src"
+    }
+  }
+}
