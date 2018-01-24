@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "Farris27/shopping_cart_laravel",
+    "description": "My shopping cart.",
+    "keywords": ["shopping","cart", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
