@@ -3,6 +3,14 @@
     "description": "My shopping cart.",
     "keywords": ["shopping","cart", "laravel"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Farris",
+            "email": "benfarris40@gmail.com",
+
+            "role": "Developer"
+        }
+    ],
     "type": "project",
     "require": {
         "php": ">=7.0.0",
